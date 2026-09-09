@@ -4,9 +4,9 @@ public class HomeWork {
         System.out.println("    MY PROFILE     ");
         System.out.println("===================");
 
-        String name = "Ruslan";
+        String name = "";
         int age = 18;
-        String city = "Qostanay";
+        String city = "";
         String university = "Narxoz";
 
         System.out.println("Name: " + name);
